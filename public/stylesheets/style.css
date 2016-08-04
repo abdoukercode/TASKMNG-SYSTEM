@@ -1,0 +1,50 @@
+body {
+ /* padding: 50;*/
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("http://www.solidbackgrounds.com/images/1280x768/1280x768-light-pastel-purple-solid-color-background.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+}
+/*http://redesigned.com/img/background_page.jpghttps://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJTyUvJhZvejb-n1c7v6vAfuyGUr5PhcQuCDtgiq2KPr1fdTI3gA*/
+/*a {
+  color: #00B7FF;
+  cursor: pointer;
+}
+
+a:hover,
+a:active {
+  color: #00B7FF;
+  text-decoration: underline;
+}*/
+.cont {
+  color: white;
+  font-size: 15px;
+}
+.glyphicon-edit{
+  margin-right: 8px;
+}
+a.danger {
+  color: red;
+}
+
+.spacing {
+  margin-bottom: 10px;
+}
+
+.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.thumbnail {
+    border-radius: 100%;
+}
+.panel-footer {
+  background-color: lightgrey !important;
+}
+.nav > li > a{
+  font-size: 24px;
+}
